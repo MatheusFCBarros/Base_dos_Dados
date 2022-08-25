@@ -16,6 +16,7 @@ Usei o read_sql para fazer o download da base
 ## Tratamento e visualização
 
 Realizei um tratamento para valores vazios encontrados na base e depois criei alguns dataframes auxiliares para facilitar a geração dos gráficos.
+Depois usei o Plotly para poder gerar gráficos interativos e gerar um arquivo html para futuras visualizações
 
 
 
